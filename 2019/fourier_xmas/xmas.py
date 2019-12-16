@@ -1,3 +1,5 @@
+#MSMP Christmas Challenge, entry by Johannes Menzel
+
 import matplotlib.pyplot as plt 
 import numpy as np 
 import matplotlib.animation as animation
